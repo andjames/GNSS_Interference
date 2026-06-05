@@ -1,0 +1,9 @@
+timestamp,station,lat,lon,magnitude,event
+2021-05-26T13:02:19,METG,60.22,24.4,2.863,May 26 2021 — double burst
+2021-05-26T13:02:20,METG,60.22,24.4,5.055,May 26 2021 — double burst
+2021-05-26T13:34:54,METG,60.22,24.4,3.21,May 26 2021 — double burst
+2021-05-26T13:34:55,METG,60.22,24.4,5.457,May 26 2021 — double burst
+2021-05-26T13:02:19,MATE,40.65,16.7,3.63,May 26 2021 — double burst
+2021-05-26T13:02:20,MATE,40.65,16.7,3.218,May 26 2021 — double burst
+2021-05-26T13:34:54,MATE,40.65,16.7,3.525,May 26 2021 — double burst
+2021-05-26T13:34:55,MATE,40.65,16.7,3.339,May 26 2021 — double burst
